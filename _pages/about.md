@@ -20,7 +20,7 @@ redirect_from:
 Xin Xiao is a second year M.E. student in School of Computer Science, Wuhan University, supervised by Prof. [Yongchao Xu](https://sites.google.com/view/yongchaoxu). He received the B.E. degree in School of Electronic Information and Communications from Huazhong University of Science and Technology (HUST), China in 2021.
 His research interest focus on computer vision, including semantic segmentation, object detection, and counting. 
 
-Email: xinxiao@whu.edu.cn, sociaxiao@gmail.com
+Contact: xinxiao@whu.edu.cn, sociaxiao@gmail.com
 <!-- He has published several papers in top conferences, such as CVPR, ICCV, and AAAI. -->
 <!-- . I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -44,18 +44,50 @@ Email: xinxiao@whu.edu.cn, sociaxiao@gmail.com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"Efficient Semi-supervised Semantic Segmentation with Progressively Deep-to-shallow Pseudo Supervision", **Xin Xiao**, Yuliang Gu,Yongchao Xu, **ICCV**, 2023(Under Review), [Paper](), [Code](https://github.com/Menoly-xin/ProDPS), [BibTex]()
+"Efficient Semi-supervised Semantic Segmentation with Progressively Deep-to-shallow Pseudo Supervision", **Xin Xiao**, Yuliang Gu,Yongchao Xu, IEEE International Conference on Computer Vision (**ICCV**), 2023(Under Review), [Paper](), [Code](https://github.com/Menoly-xin/ProDPS), [BibTex]()
 
 </div>
 </div>
 
-- "Semi-supervised Medical Image Segmentation Using Mutual Supervision on Diversely Augmented Views of Images", Yuliang Gu, **Xin Xiao**, Yongchao Xu, **MICCAI**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/papers/dulabranch/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- "Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
+"Semi-supervised Medical Image Segmentation Using Mutual Supervision on Diversely Augmented Views of Images", Yuliang Gu, **Xin Xiao**, Yongchao Xu, International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
 
-- "Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
+</div>
+</div>
 
-- "Retinex-based Network for Nighttime Image Segmentation", Zhichao Sun, Huachao Zhu, **Xin Xiao**, Yuliang Gu, Yongchao Xu, **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
+<!-- - "Semi-supervised Medical Image Segmentation Using Mutual Supervision on Diversely Augmented Views of Images", Yuliang Gu, **Xin Xiao**, Yongchao Xu, (International Conference on Medical Image Computing and Computer Assisted Intervention) **MICCAI**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/defect/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, ACM Multimedia (**ACM MM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/pointrefine/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, ACM Multimedia (**ACM MM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
+
+</div>
+</div>
+
+<!-- - "Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
+
+<!-- - "Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/nightimage/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"Retinex-based Network for Nighttime Image Segmentation", Zhichao Sun, Huachao Zhu, **Xin Xiao**, Yuliang Gu, Yongchao Xu, ACM Multimedia (**ACM MM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
+
+</div>
+</div>
+
+<!-- - "Retinex-based Network for Nighttime Image Segmentation", Zhichao Sun, Huachao Zhu, **Xin Xiao**, Yuliang Gu, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
 
 # 🎖 Honors and Awards
 - *2021.3* Outstanding Graduates, Huazhong University of Science and Technology. 
