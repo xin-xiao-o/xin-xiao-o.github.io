@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xin Xiao is a second year M.E. student in School of Computer Science, Wuhan University, supervised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=Q6QjXqMAAAAJ&hl=zh-CN). He received the B.E. degree in School of Electronic Information and Communications from Huazhong University of Science and Technology (HUST), China in 2021.
+Xin Xiao is a second year M.E. student in School of Computer Science, Wuhan University, supervised by Prof. [Yongchao Xu](https://sites.google.com/view/yongchaoxu). He received the B.E. degree in School of Electronic Information and Communications from Huazhong University of Science and Technology (HUST), China in 2021.
 His research interest focus on computer vision, including semantic segmentation, object detection, and counting. 
+
+Email: xinxiao@whu.edu.cn, sociaxiao@gmail.com
 <!-- He has published several papers in top conferences, such as CVPR, ICCV, and AAAI. -->
 <!-- . I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
