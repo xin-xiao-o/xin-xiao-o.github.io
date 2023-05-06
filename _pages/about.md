@@ -49,6 +49,8 @@ Email: xinxiao@whu.edu.cn, sociaxiao@gmail.com
 </div>
 </div>
 
+- "Semi-supervised Medical Image Segmentation Using Mutual Supervision on Diversely Augmented Views of Images", Yuliang Gu, **Xin Xiao**, Yongchao Xu, **MICCAI**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
+
 - "Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
 
 - "Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]()
