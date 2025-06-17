@@ -17,77 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xin Xiao is a second year M.E. student in School of Computer Science, Wuhan University, supervised by Prof. [Yongchao Xu](https://sites.google.com/view/yongchaoxu). He received the B.E. degree in School of Electronic Information and Communications from Huazhong University of Science and Technology (HUST), China in 2021.
-His research interest focus on computer vision, including semantic segmentation, object detection, and counting. 
+Xin Xiao is a researcher at ByteDance Seed-Robotics. He received his Master of Engineering from the School of Computer Science at Wuhan University in 2024, following a Bachelor of Engineering degree (2021) from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). His research focuses on Vision-Language Models (VLM) and Vision-Language-Action Models (VLA), exploring interdisciplinary frontiers at the intersection of computer vision, natural language processing, and robotic control.
 
-Contact: xinxiao@whu.edu.cn, sociaxiao@gmail.com
-<!-- He has published several papers in top conferences, such as CVPR, ICCV, and AAAI. -->
-<!-- . I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+Contact: xinxiao@whu.edu.cn
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 We take the third place in the WASPSYN Challenge (ISBI2023). 
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by IJCV.
+- *2024.11*: &nbsp;🎉🎉 One paper accepted by NeulPS 2024.
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by ECCV 2024.
 
 
-# 📝 Publications 
+# 📝 Seleted Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/papers/hl/pipe.png' alt="sym" width="100%"></div></div>
+
+
+"Shifted Autoencoders for Point Annotation Restoration in Object Counting", Yuda Zou*, **Xin Xiao\***, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu, ECCV, 2024, [Paper](https://arxiv.org/abs/2312.07190), [Code](), [BibTex]()
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV, 2024</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"Not All Pixels Are Equal: Learning Pixel Hardness for Semantic Segmentation", **Xin Xiao**, Daiguo Zhou, Jiagao Hu, Yi Hu,Yongchao Xu, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022(Under Review), [Paper](https://arxiv.org/abs/2305.08462), [Code](https://github.com/Menoly-xin/Hardness-Level-Learning), [BibTex]()
+"Shifted Autoencoders for Point Annotation Restoration in Object Counting", Yuda Zou*, **Xin Xiao\***, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu, ECCV, 2024, [Paper](https://arxiv.org/abs/2312.07190), [Code](), [BibTex]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI, 2024</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"WASPSYN: A Challenge for Domain Adaptive Synapse Detection in Microwasp Brain Connectomes", Yicong Li, Wanhua Li, Qi Chen, Wei Huang, Yuda Zou, **Xin Xiao**, Kazunori Shinomiya, Pat Gunn, Nishika Gupta, Alexey Polilov, Yongchao Xu, Yueyi Zhang, Zhiwei Xiong, Hanspeter Pfister, Donglai Wei, Jingpeng Wu, TMI, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10530168/), [Code](), [BibTex]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2023</div><img src='images/papers/hl/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+"Not All Pixels Are Equal: Learning Pixel Hardness for Semantic Segmentation", **Xin Xiao**, Daiguo Zhou, Jiagao Hu, Yi Hu,Yongchao Xu, Arxiv, 2023, [Paper](https://arxiv.org/abs/2305.08462), [Code](https://github.com/Menoly-xin/Hardness-Level-Learning), [BibTex]()
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2023</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"Efficient Semi-supervised Semantic Segmentation with Progressively Deep-to-shallow Pseudo Supervision", **Xin Xiao**, Yuliang Gu,Yongchao Xu, Pattern Recognition (**PR**), 2023(Under Review), [Paper](), [Code](https://github.com/Menoly-xin/ProDPS), [BibTex]()
+"Semi-supervised Semantic Segmentation with Progressively Deep-to-shallow Pseudo Supervision", **Xin Xiao**, Yuliang Gu,Yongchao Xu, Arxiv, 2023, [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4521573), [Code](https://github.com/Menoly-xin/ProDPS), [BibTex]()
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/papers/dulabranch/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-"Dual Structure-Preserving Image Filterings forSemi-supervised Medical Image Segmentation", Yuliang Gu, **Xin Xiao**, Yongchao Xu, IEEE Transactions on Medical Imaging (**TMI**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
-
-</div>
-</div>
-
-<!-- - "Semi-supervised Medical Image Segmentation Using Mutual Supervision on Diversely Augmented Views of Images", Yuliang Gu, **Xin Xiao**, Yongchao Xu, (International Conference on Medical Image Computing and Computer Assisted Intervention) **MICCAI**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/defect/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, ACM Multimedia (**ACM MM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
-
-</div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/pointrefine/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, ACM Multimedia (**ACM MM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
-
-</div>
-</div> -->
-
-<!-- - "Point Annotation De-variance for Cell Counting and Localization", Yuda Zou<sup>*</sup>, **Xin Xiao<sup>*</sup>**, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
-
-<!-- - "Defect-free Image Reconstruction via Coarse-to-Fine Memory-based Feature Fusion for Anomaly Detection", Huachao Zhu, Zelong Liu, Wenhui Dong, Zhichao Sun, **Xin Xiao**, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/papers/nightimage/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Nighttime Image Semantic Segmentation with Retinex Theory", Zhichao Sun, Huachao Zhu, **Xin Xiao**, Yuliang Gu, Yongchao Xu, Transactions on Multimeida (**TMM**), 2023(Under Review), [Paper](), [Code](), [BibTex]()
-
-</div>
-</div>
-
-<!-- - "Retinex-based Network for Nighttime Image Segmentation", Zhichao Sun, Huachao Zhu, **Xin Xiao**, Yuliang Gu, Yongchao Xu, (ACM Multimedia) **ACM MM**, 2023(Under Review), [Paper](), [Code](), [BibTex]() -->
 
 # 🎖 Honors and Awards
 - *2021.3* Outstanding Graduates award, Huazhong University of Science and Technology. 
@@ -100,7 +82,7 @@ Contact: xinxiao@whu.edu.cn, sociaxiao@gmail.com
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2023.11 - 2024.07*, [ByteDance, Seed](https://www.bytedance.com/zh/), China.
