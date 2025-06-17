@@ -23,7 +23,7 @@ Contact: xinxiao@whu.edu.cn
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by IJCV.
-- *2024.11*: &nbsp;🎉🎉 One paper accepted by NeulPS 2024.
+- *2024.11*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by ECCV 2024.
 
 
