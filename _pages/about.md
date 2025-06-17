@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xin Xiao is a researcher at ByteDance Seed-Robotics. He received his Master of Engineering from the School of Computer Science at Wuhan University in 2024, following a Bachelor of Engineering degree (2021) from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). His research focuses on Vision-Language Models (VLM) and Vision-Language-Action Models (VLA), exploring interdisciplinary frontiers at the intersection of computer vision, natural language processing, and robotic control.
+Xin Xiao is a researcher at ByteDance Seed-Robotics. He received his Master of Engineering from the School of Computer Science at Wuhan University in 2024, following a Bachelor of Engineering degree (2021) from the School of Electronic Information and Communications at Huazhong University of Science and Technology (HUST). His research focuses on Vision-Language Models (VLM) and Vision-Language-Action Models (VLA).
 
 Contact: xinxiao@whu.edu.cn
 
