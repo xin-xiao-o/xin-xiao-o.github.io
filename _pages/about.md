@@ -28,7 +28,13 @@ Contact: xinxiao@whu.edu.cn
 
 
 # 📝 Seleted Publications 
-- 
+- Not all pixels are equal: Learning pixel hardness for semantic segmentation, <u>X Xiao</u>, D Zhou, J Hu, Y Hu, Y Xu, in IJCV, 2025
+- Seeing the image: Prioritizing visual correlation by contrastive alignment, <u>X Xiao</u>, B Wu, J Wang, C Li, H Guo, in NeurIPS, 2024  
+- Shifted Autoencoders for Point Annotation Restoration in Object Counting, by Y Zou$^*$, <u>X Xiao$^*$</u>, P Zhou, Z Sun, B Du, Y Xu, in ECCV, 2024    
+- World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering, J Wang, B Wu, H Jiang, X Zhou, <u>X Xiao</u>, H Guo, J Xiao, in EMNLP 2024  
+- Dual structure-aware image filterings for semi-supervised medical image segmentation, Y Gu, Z Sun, T Chen, <u>X Xiao</u>, Y Liu, Y Xu, L Najman, in Medical Image Analysis, 2025  
+- Nighttime image semantic segmentation with retinex theory, Z Sun, H Zhu, <u>X Xiao</u>, Y Gu, Y Xu, in Image and Vision Computing, 2024  
+- WASPSYN: A Challenge for Domain Adaptive Synapse Detection in Microwasp Brain Connectomes, Y Li, W Li, Q Chen, W Huang, Y Zou, <u>X Xiao</u>, K Shinomiya, P Gunn, ..., in IEEE Trans. Med. Imaging, 2024
 
 # 🎖 Honors and Awards
 - *2021.3* Outstanding Graduates award, Huazhong University of Science and Technology. 
@@ -36,7 +42,7 @@ Contact: xinxiao@whu.edu.cn
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.06 - now*, M.E, School of Computer Science, Wuhan University, China.
+- *2021.06 - 2024.06*, M.E, School of Computer Science, Wuhan University, China.
 - *2017.09 - 2021.06*, B.E, School of Electronic Information and Communications, Huazhong University of Science and Technology, China. 
 
 <!-- # 💬 Invited Talks
@@ -44,4 +50,8 @@ Contact: xinxiao@whu.edu.cn
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.11 - 2024.07*, [ByteDance, Seed](https://www.bytedance.com/zh/), China.
+- *2023.11 - 2024.06*, [ByteDance, AML](https://seed.bytedance.com/zh/), China.
+
+
+# 💼 Work Experience
+- *2024.07 - now*, [ByteDance, Seed](https://seed.bytedance.com/zh/), China.
