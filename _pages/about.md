@@ -28,48 +28,7 @@ Contact: xinxiao@whu.edu.cn
 
 
 # 📝 Seleted Publications 
-
-
-
-"Shifted Autoencoders for Point Annotation Restoration in Object Counting", Yuda Zou*, **Xin Xiao\***, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu, ECCV, 2024, [Paper](https://arxiv.org/abs/2312.07190), [Code](), [BibTex]()
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV, 2024</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Shifted Autoencoders for Point Annotation Restoration in Object Counting", Yuda Zou*, **Xin Xiao\***, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu, ECCV, 2024, [Paper](https://arxiv.org/abs/2312.07190), [Code](), [BibTex]()
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI, 2024</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"WASPSYN: A Challenge for Domain Adaptive Synapse Detection in Microwasp Brain Connectomes", Yicong Li, Wanhua Li, Qi Chen, Wei Huang, Yuda Zou, **Xin Xiao**, Kazunori Shinomiya, Pat Gunn, Nishika Gupta, Alexey Polilov, Yongchao Xu, Yueyi Zhang, Zhiwei Xiong, Hanspeter Pfister, Donglai Wei, Jingpeng Wu, TMI, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10530168/), [Code](), [BibTex]()
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2023</div><img src='images/papers/hl/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-"Not All Pixels Are Equal: Learning Pixel Hardness for Semantic Segmentation", **Xin Xiao**, Daiguo Zhou, Jiagao Hu, Yi Hu,Yongchao Xu, Arxiv, 2023, [Paper](https://arxiv.org/abs/2305.08462), [Code](https://github.com/Menoly-xin/Hardness-Level-Learning), [BibTex]()
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2023</div><img src='images/papers/prodps/pipe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Semi-supervised Semantic Segmentation with Progressively Deep-to-shallow Pseudo Supervision", **Xin Xiao**, Yuliang Gu,Yongchao Xu, Arxiv, 2023, [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4521573), [Code](https://github.com/Menoly-xin/ProDPS), [BibTex]()
-
-</div>
-</div>
-
-
+- 
 
 # 🎖 Honors and Awards
 - *2021.3* Outstanding Graduates award, Huazhong University of Science and Technology. 
