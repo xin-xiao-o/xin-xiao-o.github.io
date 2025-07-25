@@ -29,7 +29,7 @@ Contact: xinxiao@whu.edu.cn
 
 
 # 📝 Seleted Publications 
-- [GR-3 Technical Report](https://seed.bytedance.com/zh/gr3), Model design, Training, 2025
+- [GR-3 Technical Report](https://seed.bytedance.com/zh/gr3), Model/Codebase/Training, 2025
 - Not all pixels are equal: Learning pixel hardness for semantic segmentation, <u>X Xiao</u>, D Zhou, J Hu, Y Hu, Y Xu, in IJCV, 2025
 - Seeing the image: Prioritizing visual correlation by contrastive alignment, <u>X Xiao</u>, B Wu, J Wang, C Li, H Guo, in NeurIPS, 2024  
 - Shifted Autoencoders for Point Annotation Restoration in Object Counting, by Y Zou$^*$, <u>X Xiao$^*$</u>, P Zhou, Z Sun, B Du, Y Xu, in ECCV, 2024    
